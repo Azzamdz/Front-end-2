@@ -60,6 +60,7 @@ body {
 .active-plan {
     background-color: #45A69A;
     color: white;
+    cursor: pointer;
 }
 
 
