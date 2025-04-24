@@ -80,6 +80,7 @@ body {
     margin: 8px;
     display: flex;
     flex-direction: column;
+    cursor: pointer;
     
     .price{
         display: flex;
